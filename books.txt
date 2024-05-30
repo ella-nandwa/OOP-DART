@@ -1,0 +1,3 @@
+Title1,Author1,ISBN1
+Title2,Author2,ISBN2
+...
